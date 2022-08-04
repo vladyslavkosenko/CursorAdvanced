@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6652993-be8d-4091-8d80-9038c25b93a2" name="Changes" comment="Redesigned theproject">
-      <changelist_data name="vladyslavkosenko" email="vaduha91@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c6652993-be8d-4091-8d80-9038c25b93a2" name="Changes" comment="moved the project to maven">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursorAdvanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CursorAdvanced.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/Firefighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/Firefighter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/ThreadSafeArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/ThreadSafeArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/recipientProducer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/recipientProducer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/recipientProducer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/recipientProducer/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/recipientProducer/Recipient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/recipientProducer/Recipient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/AmbientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/AmbientThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/ChansonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/ChansonThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/CopyOnWriteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/CopyOnWriteArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/JazzThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/JazzThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/RockThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/RockThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/TechnoThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/TechnoThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +14,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="hw2" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vladyslavkosenko &lt;vaduha91@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -124,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659540730423</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="moved the project to maven">
+      <created>1659610310326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659610310326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Redesigned the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redesigned the project" />
+    <MESSAGE value="moved the project to maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved the project to maven" />
   </component>
 </project>
