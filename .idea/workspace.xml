@@ -1,27 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6652993-be8d-4091-8d80-9038c25b93a2" name="Changes" comment="" />
+    <list default="true" id="c6652993-be8d-4091-8d80-9038c25b93a2" name="Changes" comment="Redesigned theproject">
+      <changelist_data name="vladyslavkosenko" email="vaduha91@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursorAdvanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CursorAdvanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/Firefighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/Firefighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/fireDepartment/ThreadSafeArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/fireDepartment/ThreadSafeArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/recipientProducer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/recipientProducer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/recipientProducer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/recipientProducer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/recipientProducer/Recipient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/recipientProducer/Recipient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/AmbientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/AmbientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/ChansonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/ChansonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/CopyOnWriteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/CopyOnWriteArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/JazzThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/JazzThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/RockThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/RockThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/songBox/TechnoThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw1/songBox/TechnoThread.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2CqqMdMnInFnsz2D3S1zC2tdFgH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Малікс-Мєд/Desktop/Lecture_2-master2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hw1.songBox.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.fireDepartment.Main" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Малікс-Мєд\Documents\cursor_advanced\CursorAdvanced\src\java" />
+      <recent name="C:\Users\Малікс-Мєд\Documents\cursor_advanced\CursorAdvanced\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.java.hw1.songBox.Main">
+    <configuration name="java.hw1.fireDepartment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.hw1.fireDepartment.Main" />
       <module name="CursorAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.fireDepartment.*" />
+          <option name="PATTERN" value="java.hw1.fireDepartment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -29,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw1.songBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.songBox.Main" />
+    <configuration name="java.hw1.songBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.hw1.songBox.Main" />
       <module name="CursorAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.songBox.*" />
+          <option name="PATTERN" value="java.hw1.songBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -44,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hw1.songBox.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.java.hw1.songBox.Main" />
+        <item itemvalue="Application.java.hw1.fireDepartment.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -58,6 +117,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659540419803</updated>
     </task>
+    <task id="LOCAL-00001" summary="Redesigned the project">
+      <created>1659540730423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659540730423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,10 +132,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hw2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Redesigned the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redesigned the project" />
   </component>
 </project>
