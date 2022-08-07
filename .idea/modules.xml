@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CursorAdvanced.iml" filepath="$PROJECT_DIR$/CursorAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CursorAdvanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CursorAdvanced.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CursorAdvanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CursorAdvanced.test.iml" />
     </modules>
   </component>
 </project>

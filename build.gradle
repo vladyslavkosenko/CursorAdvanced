@@ -28,3 +28,15 @@ publishing {
         }
     }
 }
+task printHello
+{
+    println 'Hello'
+
+}
+printHello.doFirst {
+    println 'doFirst'
+}
+
+printHello.doLast {
+    println 'doLast'
+}
