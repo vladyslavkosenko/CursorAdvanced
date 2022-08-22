@@ -23,6 +23,7 @@ bin/
 /.nb-gradle/
 .gradle/
         .idea/
+
         build-scan-data/
         build/
         caches/
