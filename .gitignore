@@ -21,6 +21,15 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+.gradle/
+        .idea/
+        build-scan-data/
+        build/
+        caches/
+        daemon/
+        native/
+        wrapper/
+
 
 ### VS Code ###
 .vscode/
